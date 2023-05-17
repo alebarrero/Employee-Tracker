@@ -11,5 +11,4 @@ Run npm i mysql2
 <br>
 
 ## Demo video 
-
-<a href="https://drive.google.com/file/d/1aRVJfwnx5krwAsgEADbfh6kR_-_f7ZLK/view">
+https://drive.google.com/file/d/1aRVJfwnx5krwAsgEADbfh6kR_-_f7ZLK/view
